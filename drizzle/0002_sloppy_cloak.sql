@@ -1,0 +1,1 @@
+ALTER TABLE `notes` MODIFY COLUMN `tags` json;
